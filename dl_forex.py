@@ -10,13 +10,10 @@ urlFmt = "https://www.bankofcanada.ca/valet/observations/FXAUDCAD,FXBRLCAD,FXCNY
 
 
 def download_file(url, dest):
-    local_filename = dest
     with requests.get(url, stream=True) as r:
-        with open(local_filename, "wb") as f:
+        with open(dest, "wb") as f:
             r.raw.read = functools.partial(r.raw.read, decode_content=True)
             shutil.copyfileobj(r.raw, f)
-
-    return local_filename
 
 
 def download_forex(year):
