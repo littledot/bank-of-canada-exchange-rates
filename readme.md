@@ -4,12 +4,16 @@ Data source:
 - Daily: https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates-lookup/
 - Yearly: https://www.bankofcanada.ca/rates/exchange/annual-average-exchange-rates/
 
-Daily exchange rates: https://littledot.github.io/bank-of-canada-exchange-rates/data/boc_2017.json
+Daily exchange rates: https://littledot.github.io/bank-of-canada-exchange-rates/data/out/boc_2017.json
 
-Yearly average rates: https://littledot.github.io/bank-of-canada-exchange-rates/data/boc_annual.json
+Yearly average rates: https://littledot.github.io/bank-of-canada-exchange-rates/data/out/boc_annual.json
 
-boc_{year}.raw.json: Original file from the data source
+*.raw.json: Original file from the data source
 
-boc_{year}.pretty.json: Reformatted file
+*.json: Reformatted with no extra whitespace
 
-boc_{year}.json: Reformatted with no extra whitespace
+*.pretty.json: `*.json` for humans
+
+*.full.json: Filled weekends & holidays with last known rate
+
+*.full.pretty.json: `*.full.json` for humans
