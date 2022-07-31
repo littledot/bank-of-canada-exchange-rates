@@ -105,6 +105,7 @@ def fillDate(names, year):
 
             startDate = date.fromisoformat(inDateStrs[0])
             endDate = date(year + 1, 1, 1)
+            endDate = endDate if endDate < date.today() else date.today()
             lastObs = inCurObs[inDateStrs[0]]
             for curDate in daterange(startDate, endDate):
                 curDateStr = curDate.isoformat()
@@ -127,7 +128,7 @@ def getFileNames(name):
 
 
 def main():
-    for i in range(2017, 2022):
+    for i in range(2017, 2023):
         names = getFileNames("boc_" + str(i))
         downloadForex(i, names["raw"])
         cleanDailyData(names)
