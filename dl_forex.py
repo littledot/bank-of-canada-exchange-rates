@@ -54,6 +54,9 @@ def cleanDailyData(names):
             "observations": outObs,
         }
 
+        startDate = None
+        lastDate = None
+
         for currency in inJson["seriesDetail"].keys():
             outCurObs = {}
             outObs[currency] = outCurObs
@@ -62,6 +65,12 @@ def cleanDailyData(names):
                 dateStr = inObs["d"]
                 outCurObs[dateStr] = inObs.get(currency, {}).get("v")
 
+                if startDate is None:
+                    startDate = dateStr
+                lastDate = dateStr
+
+        outJson["startDate"] = startDate
+        outJson["endDate"] = lastDate
         saveJson(outJson, names["clean"])
 
 
@@ -93,6 +102,8 @@ def fillDate(names, year):
 
         outObs = {}
         outJson = {
+            "startDate": inJson["startDate"],
+            "endDate": inJson["endDate"],
             "terms": inJson["terms"],
             "seriesDetail": inJson["seriesDetail"],
             "observations": outObs,
