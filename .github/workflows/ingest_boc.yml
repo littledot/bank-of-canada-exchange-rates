@@ -1,6 +1,7 @@
 name: Ingest Bank of Canada
 # on: [push]
 on:
+  workflow_dispatch:
   schedule:
     - cron: '22 2 * * *'
 jobs:
