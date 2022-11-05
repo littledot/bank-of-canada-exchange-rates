@@ -8,7 +8,7 @@
             "description": "Australian dollar to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXBRLCAD": {
@@ -16,7 +16,7 @@
             "description": "Brazilian real to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXCHFCAD": {
@@ -24,7 +24,7 @@
             "description": "Swiss franc to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXCNYCAD": {
@@ -32,7 +32,7 @@
             "description": "Chinese renminbi to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXEURCAD": {
@@ -40,7 +40,7 @@
             "description": "European euro to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXGBPCAD": {
@@ -48,7 +48,7 @@
             "description": "UK pound sterling to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXHKDCAD": {
@@ -56,7 +56,7 @@
             "description": "Hong Kong dollar to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXIDRCAD": {
@@ -64,7 +64,7 @@
             "description": "Indonesian rupiah to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXINRCAD": {
@@ -72,7 +72,7 @@
             "description": "Indian rupee to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXJPYCAD": {
@@ -80,7 +80,7 @@
             "description": "Japanese yen to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXKRWCAD": {
@@ -88,7 +88,7 @@
             "description": "South Korean won to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXMXNCAD": {
@@ -96,7 +96,7 @@
             "description": "Mexican peso to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXMYRCAD": {
@@ -104,7 +104,7 @@
             "description": "Malaysian ringgit to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXNOKCAD": {
@@ -112,7 +112,7 @@
             "description": "Norwegian krone to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXNZDCAD": {
@@ -120,7 +120,7 @@
             "description": "New Zealand dollar to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXPENCAD": {
@@ -128,7 +128,7 @@
             "description": "Peruvian new sol to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXRUBCAD": {
@@ -136,7 +136,7 @@
             "description": "Russian ruble to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXSARCAD": {
@@ -144,7 +144,7 @@
             "description": "Saudi riyal to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXSEKCAD": {
@@ -152,7 +152,7 @@
             "description": "Swedish krona to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXSGDCAD": {
@@ -160,7 +160,7 @@
             "description": "Singapore dollar to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXTHBCAD": {
@@ -168,7 +168,7 @@
             "description": "Thai baht to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXTRYCAD": {
@@ -176,7 +176,7 @@
             "description": "Turkish lira to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXTWDCAD": {
@@ -184,7 +184,7 @@
             "description": "Taiwanese dollar to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXUSDCAD": {
@@ -192,7 +192,7 @@
             "description": "US dollar to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXVNDCAD": {
@@ -200,7 +200,7 @@
             "description": "Vietnamese dong to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXZARCAD": {
@@ -208,7 +208,7 @@
             "description": "South African rand to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         }
     },
@@ -523,7 +523,8 @@
             "2022-10-31": "0.8718",
             "2022-11-01": "0.8724",
             "2022-11-02": "0.8741",
-            "2022-11-03": "0.8657"
+            "2022-11-03": "0.8657",
+            "2022-11-04": "0.8713"
         },
         "FXBRLCAD": {
             "2021-12-29": "0.2254",
@@ -835,7 +836,8 @@
             "2022-10-31": "0.2606",
             "2022-11-01": "0.2652",
             "2022-11-02": "0.2650",
-            "2022-11-03": "0.2680"
+            "2022-11-03": "0.2680",
+            "2022-11-04": "0.2681"
         },
         "FXCHFCAD": {
             "2021-12-29": "1.3992",
@@ -1147,7 +1149,8 @@
             "2022-10-31": "1.3629",
             "2022-11-01": "1.3640",
             "2022-11-02": "1.3660",
-            "2022-11-03": "1.3577"
+            "2022-11-03": "1.3577",
+            "2022-11-04": "1.3547"
         },
         "FXCNYCAD": {
             "2021-12-29": "0.2010",
@@ -1459,7 +1462,8 @@
             "2022-10-31": "0.1869",
             "2022-11-01": "0.1872",
             "2022-11-02": "0.1870",
-            "2022-11-03": "0.1882"
+            "2022-11-03": "0.1882",
+            "2022-11-04": "0.1880"
         },
         "FXEURCAD": {
             "2021-12-29": "1.4517",
@@ -1771,7 +1775,8 @@
             "2022-10-31": "1.3502",
             "2022-11-01": "1.3468",
             "2022-11-02": "1.3472",
-            "2022-11-03": "1.3415"
+            "2022-11-03": "1.3415",
+            "2022-11-04": "1.3385"
         },
         "FXGBPCAD": {
             "2021-12-29": "1.7256",
@@ -2083,7 +2088,8 @@
             "2022-10-31": "1.5685",
             "2022-11-01": "1.5644",
             "2022-11-02": "1.5644",
-            "2022-11-03": "1.5379"
+            "2022-11-03": "1.5379",
+            "2022-11-04": "1.5278"
         },
         "FXHKDCAD": {
             "2021-12-29": "0.1642",
@@ -2395,7 +2401,8 @@
             "2022-10-31": "0.1739",
             "2022-11-01": "0.1734",
             "2022-11-02": "0.1736",
-            "2022-11-03": "0.1752"
+            "2022-11-03": "0.1752",
+            "2022-11-04": "0.1722"
         },
         "FXIDRCAD": {
             "2021-12-29": "0.000090",
@@ -2707,7 +2714,8 @@
             "2022-10-31": "0.000088",
             "2022-11-01": "0.000087",
             "2022-11-02": "0.000087",
-            "2022-11-03": "0.000088"
+            "2022-11-03": "0.000088",
+            "2022-11-04": "0.000086"
         },
         "FXINRCAD": {
             "2021-12-29": "0.01717",
@@ -3019,7 +3027,8 @@
             "2022-10-31": "0.01649",
             "2022-11-01": "0.01648",
             "2022-11-02": "0.01647",
-            "2022-11-03": "0.01661"
+            "2022-11-03": "0.01661",
+            "2022-11-04": "0.01647"
         },
         "FXJPYCAD": {
             "2021-12-29": "0.01114",
@@ -3331,7 +3340,8 @@
             "2022-10-31": "0.009180",
             "2022-11-01": "0.009200",
             "2022-11-02": "0.009270",
-            "2022-11-03": "0.009280"
+            "2022-11-03": "0.009280",
+            "2022-11-04": "0.009190"
         },
         "FXKRWCAD": {
             "2021-12-29": "0.001080",
@@ -3643,7 +3653,8 @@
             "2022-10-31": "0.000956",
             "2022-11-01": "0.000961",
             "2022-11-02": "0.000962",
-            "2022-11-03": "0.000965"
+            "2022-11-03": "0.000965",
+            "2022-11-04": "0.000959"
         },
         "FXMXNCAD": {
             "2021-12-29": "0.06223",
@@ -3955,7 +3966,8 @@
             "2022-10-31": "0.06878",
             "2022-11-01": "0.06899",
             "2022-11-02": "0.06935",
-            "2022-11-03": "0.06984"
+            "2022-11-03": "0.06984",
+            "2022-11-04": "0.06921"
         },
         "FXMYRCAD": {
             "2021-12-29": null,
@@ -4267,7 +4279,8 @@
             "2022-10-31": null,
             "2022-11-01": null,
             "2022-11-02": null,
-            "2022-11-03": null
+            "2022-11-03": null,
+            "2022-11-04": null
         },
         "FXNOKCAD": {
             "2021-12-29": "0.1456",
@@ -4579,7 +4592,8 @@
             "2022-10-31": "0.1313",
             "2022-11-01": "0.1318",
             "2022-11-02": "0.1315",
-            "2022-11-03": "0.1300"
+            "2022-11-03": "0.1300",
+            "2022-11-04": "0.1313"
         },
         "FXNZDCAD": {
             "2021-12-29": "0.8738",
@@ -4891,7 +4905,8 @@
             "2022-10-31": "0.7919",
             "2022-11-01": "0.7967",
             "2022-11-02": "0.7999",
-            "2022-11-03": "0.7940"
+            "2022-11-03": "0.7940",
+            "2022-11-04": "0.7971"
         },
         "FXPENCAD": {
             "2021-12-29": "0.3224",
@@ -5203,7 +5218,8 @@
             "2022-10-31": "0.3424",
             "2022-11-01": "0.3418",
             "2022-11-02": "0.3433",
-            "2022-11-03": "0.3470"
+            "2022-11-03": "0.3470",
+            "2022-11-04": "0.3413"
         },
         "FXRUBCAD": {
             "2021-12-29": "0.01730",
@@ -5515,7 +5531,8 @@
             "2022-10-31": "0.02210",
             "2022-11-01": "0.02206",
             "2022-11-02": "0.02202",
-            "2022-11-03": "0.02211"
+            "2022-11-03": "0.02211",
+            "2022-11-04": "0.02176"
         },
         "FXSARCAD": {
             "2021-12-29": "0.3410",
@@ -5827,7 +5844,8 @@
             "2022-10-31": "0.3633",
             "2022-11-01": "0.3623",
             "2022-11-02": "0.3627",
-            "2022-11-03": "0.3658"
+            "2022-11-03": "0.3658",
+            "2022-11-04": "0.3597"
         },
         "FXSEKCAD": {
             "2021-12-29": "0.1416",
@@ -6139,7 +6157,8 @@
             "2022-10-31": "0.1237",
             "2022-11-01": "0.1237",
             "2022-11-02": "0.1237",
-            "2022-11-03": "0.1229"
+            "2022-11-03": "0.1229",
+            "2022-11-04": "0.1233"
         },
         "FXSGDCAD": {
             "2021-12-29": "0.9467",
@@ -6451,7 +6470,8 @@
             "2022-10-31": "0.9641",
             "2022-11-01": "0.9629",
             "2022-11-02": "0.9650",
-            "2022-11-03": "0.9671"
+            "2022-11-03": "0.9671",
+            "2022-11-04": "0.9611"
         },
         "FXTHBCAD": {
             "2021-12-29": null,
@@ -6763,7 +6783,8 @@
             "2022-10-31": null,
             "2022-11-01": null,
             "2022-11-02": null,
-            "2022-11-03": null
+            "2022-11-03": null,
+            "2022-11-04": null
         },
         "FXTRYCAD": {
             "2021-12-29": "0.1014",
@@ -7075,7 +7096,8 @@
             "2022-10-31": "0.07330",
             "2022-11-01": "0.07320",
             "2022-11-02": "0.07320",
-            "2022-11-03": "0.07390"
+            "2022-11-03": "0.07390",
+            "2022-11-04": "0.07270"
         },
         "FXTWDCAD": {
             "2021-12-29": "0.04633",
@@ -7387,7 +7409,8 @@
             "2022-10-31": "0.04230",
             "2022-11-01": "0.04233",
             "2022-11-02": "0.04233",
-            "2022-11-03": "0.04263"
+            "2022-11-03": "0.04263",
+            "2022-11-04": "0.04221"
         },
         "FXUSDCAD": {
             "2021-12-29": "1.2804",
@@ -7699,7 +7722,8 @@
             "2022-10-31": "1.3649",
             "2022-11-01": "1.3614",
             "2022-11-02": "1.3630",
-            "2022-11-03": "1.3749"
+            "2022-11-03": "1.3749",
+            "2022-11-04": "1.3517"
         },
         "FXVNDCAD": {
             "2021-12-29": null,
@@ -8011,7 +8035,8 @@
             "2022-10-31": null,
             "2022-11-01": null,
             "2022-11-02": null,
-            "2022-11-03": null
+            "2022-11-03": null,
+            "2022-11-04": null
         },
         "FXZARCAD": {
             "2021-12-29": "0.08045",
@@ -8323,7 +8348,8 @@
             "2022-10-31": "0.07434",
             "2022-11-01": "0.07486",
             "2022-11-02": "0.07501",
-            "2022-11-03": "0.07465"
+            "2022-11-03": "0.07465",
+            "2022-11-04": "0.07513"
         }
     }
 }

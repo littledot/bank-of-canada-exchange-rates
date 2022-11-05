@@ -8,7 +8,7 @@
             "description": "Australian dollar to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXBRLCAD": {
@@ -16,7 +16,7 @@
             "description": "Brazilian real to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXCHFCAD": {
@@ -24,7 +24,7 @@
             "description": "Swiss franc to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXCNYCAD": {
@@ -32,7 +32,7 @@
             "description": "Chinese renminbi to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXEURCAD": {
@@ -40,7 +40,7 @@
             "description": "European euro to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXGBPCAD": {
@@ -48,7 +48,7 @@
             "description": "UK pound sterling to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXHKDCAD": {
@@ -56,7 +56,7 @@
             "description": "Hong Kong dollar to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXIDRCAD": {
@@ -64,7 +64,7 @@
             "description": "Indonesian rupiah to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXINRCAD": {
@@ -72,7 +72,7 @@
             "description": "Indian rupee to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXJPYCAD": {
@@ -80,7 +80,7 @@
             "description": "Japanese yen to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXKRWCAD": {
@@ -88,7 +88,7 @@
             "description": "South Korean won to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXMXNCAD": {
@@ -96,7 +96,7 @@
             "description": "Mexican peso to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXMYRCAD": {
@@ -104,7 +104,7 @@
             "description": "Malaysian ringgit to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXNOKCAD": {
@@ -112,7 +112,7 @@
             "description": "Norwegian krone to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXNZDCAD": {
@@ -120,7 +120,7 @@
             "description": "New Zealand dollar to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXPENCAD": {
@@ -128,7 +128,7 @@
             "description": "Peruvian new sol to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXRUBCAD": {
@@ -136,7 +136,7 @@
             "description": "Russian ruble to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXSARCAD": {
@@ -144,7 +144,7 @@
             "description": "Saudi riyal to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXSEKCAD": {
@@ -152,7 +152,7 @@
             "description": "Swedish krona to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXSGDCAD": {
@@ -160,7 +160,7 @@
             "description": "Singapore dollar to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXTHBCAD": {
@@ -168,7 +168,7 @@
             "description": "Thai baht to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXTRYCAD": {
@@ -176,7 +176,7 @@
             "description": "Turkish lira to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXTWDCAD": {
@@ -184,7 +184,7 @@
             "description": "Taiwanese dollar to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXUSDCAD": {
@@ -192,7 +192,7 @@
             "description": "US dollar to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXVNDCAD": {
@@ -200,7 +200,7 @@
             "description": "Vietnamese dong to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXZARCAD": {
@@ -208,7 +208,7 @@
             "description": "South African rand to Canadian dollar daily exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         }
     },
@@ -15547,6 +15547,78 @@
             },
             "FXUSDCAD": {
                 "v": "1.3749"
+            }
+        },
+        {
+            "d": "2022-11-04",
+            "FXAUDCAD": {
+                "v": "0.8713"
+            },
+            "FXBRLCAD": {
+                "v": "0.2681"
+            },
+            "FXCNYCAD": {
+                "v": "0.1880"
+            },
+            "FXEURCAD": {
+                "v": "1.3385"
+            },
+            "FXHKDCAD": {
+                "v": "0.1722"
+            },
+            "FXINRCAD": {
+                "v": "0.01647"
+            },
+            "FXIDRCAD": {
+                "v": "0.000086"
+            },
+            "FXJPYCAD": {
+                "v": "0.009190"
+            },
+            "FXMXNCAD": {
+                "v": "0.06921"
+            },
+            "FXNZDCAD": {
+                "v": "0.7971"
+            },
+            "FXNOKCAD": {
+                "v": "0.1313"
+            },
+            "FXPENCAD": {
+                "v": "0.3413"
+            },
+            "FXRUBCAD": {
+                "v": "0.02176"
+            },
+            "FXSARCAD": {
+                "v": "0.3597"
+            },
+            "FXSGDCAD": {
+                "v": "0.9611"
+            },
+            "FXZARCAD": {
+                "v": "0.07513"
+            },
+            "FXKRWCAD": {
+                "v": "0.000959"
+            },
+            "FXSEKCAD": {
+                "v": "0.1233"
+            },
+            "FXCHFCAD": {
+                "v": "1.3547"
+            },
+            "FXTWDCAD": {
+                "v": "0.04221"
+            },
+            "FXTRYCAD": {
+                "v": "0.07270"
+            },
+            "FXGBPCAD": {
+                "v": "1.5278"
+            },
+            "FXUSDCAD": {
+                "v": "1.3517"
             }
         }
     ]

@@ -13,7 +13,7 @@
             "description": "Australian dollar to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXABRLCAD": {
@@ -21,7 +21,7 @@
             "description": "Brazilian real to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXACNYCAD": {
@@ -29,7 +29,7 @@
             "description": "Chinese renminbi to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXAEURCAD": {
@@ -37,7 +37,7 @@
             "description": "European euro to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXAHKDCAD": {
@@ -45,7 +45,7 @@
             "description": "Hong Kong dollar to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXAINRCAD": {
@@ -53,7 +53,7 @@
             "description": "Indian rupee to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXAIDRCAD": {
@@ -61,7 +61,7 @@
             "description": "Indonesian rupiah to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXAJPYCAD": {
@@ -69,7 +69,7 @@
             "description": "Japanese yen to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXAMYRCAD": {
@@ -77,7 +77,7 @@
             "description": "Malaysian ringgit to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXAMXNCAD": {
@@ -85,7 +85,7 @@
             "description": "Mexican peso to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXANZDCAD": {
@@ -93,7 +93,7 @@
             "description": "New Zealand dollar to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXANOKCAD": {
@@ -101,7 +101,7 @@
             "description": "Norwegian krone to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXAPENCAD": {
@@ -109,7 +109,7 @@
             "description": "Peruvian new sol to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXARUBCAD": {
@@ -117,7 +117,7 @@
             "description": "Russian ruble to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXASARCAD": {
@@ -125,7 +125,7 @@
             "description": "Saudi riyal to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXASGDCAD": {
@@ -133,7 +133,7 @@
             "description": "Singapore dollar to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXAZARCAD": {
@@ -141,7 +141,7 @@
             "description": "South African rand to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXAKRWCAD": {
@@ -149,7 +149,7 @@
             "description": "South Korean won to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXASEKCAD": {
@@ -157,7 +157,7 @@
             "description": "Swedish krona to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXACHFCAD": {
@@ -165,7 +165,7 @@
             "description": "Swiss franc to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXATWDCAD": {
@@ -173,7 +173,7 @@
             "description": "Taiwanese dollar to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXATHBCAD": {
@@ -181,7 +181,7 @@
             "description": "Thai baht to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXATRYCAD": {
@@ -189,7 +189,7 @@
             "description": "Turkish lira to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXAGBPCAD": {
@@ -197,7 +197,7 @@
             "description": "UK pound sterling to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXAUSDCAD": {
@@ -205,7 +205,7 @@
             "description": "US dollar to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         },
         "FXAVNDCAD": {
@@ -213,7 +213,7 @@
             "description": "Vietnamese dong to Canadian dollar annual exchange rate",
             "dimension": {
                 "key": "d",
-                "name": "date"
+                "name": "Date"
             }
         }
     },
