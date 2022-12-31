@@ -604,6 +604,78 @@
             "FXAUSDCAD": {
                 "v": "1.2535"
             }
+        },
+        {
+            "d": "2022-01-01",
+            "FXAAUDCAD": {
+                "v": "0.9034"
+            },
+            "FXABRLCAD": {
+                "v": "0.2525"
+            },
+            "FXACNYCAD": {
+                "v": "0.1935"
+            },
+            "FXAEURCAD": {
+                "v": "1.3696"
+            },
+            "FXAHKDCAD": {
+                "v": "0.1662"
+            },
+            "FXAINRCAD": {
+                "v": "0.01656"
+            },
+            "FXAIDRCAD": {
+                "v": "0.000088"
+            },
+            "FXAJPYCAD": {
+                "v": "0.009940"
+            },
+            "FXAMXNCAD": {
+                "v": "0.06472"
+            },
+            "FXANZDCAD": {
+                "v": "0.8267"
+            },
+            "FXANOKCAD": {
+                "v": "0.1357"
+            },
+            "FXAPENCAD": {
+                "v": "0.3394"
+            },
+            "FXARUBCAD": {
+                "v": "0.01937"
+            },
+            "FXASARCAD": {
+                "v": "0.3465"
+            },
+            "FXASGDCAD": {
+                "v": "0.9438"
+            },
+            "FXAZARCAD": {
+                "v": "0.07974"
+            },
+            "FXAKRWCAD": {
+                "v": "0.001009"
+            },
+            "FXASEKCAD": {
+                "v": "0.1289"
+            },
+            "FXACHFCAD": {
+                "v": "1.3629"
+            },
+            "FXATWDCAD": {
+                "v": "0.04371"
+            },
+            "FXATRYCAD": {
+                "v": "0.07940"
+            },
+            "FXAGBPCAD": {
+                "v": "1.6076"
+            },
+            "FXAUSDCAD": {
+                "v": "1.3013"
+            }
         }
     ]
 }

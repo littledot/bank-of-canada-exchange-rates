@@ -346,6 +346,31 @@
             "FXATRYCAD": "0.1450",
             "FXAGBPCAD": "1.7246",
             "FXAUSDCAD": "1.2535"
+        },
+        "2022-01-01": {
+            "FXAAUDCAD": "0.9034",
+            "FXABRLCAD": "0.2525",
+            "FXACNYCAD": "0.1935",
+            "FXAEURCAD": "1.3696",
+            "FXAHKDCAD": "0.1662",
+            "FXAINRCAD": "0.01656",
+            "FXAIDRCAD": "0.000088",
+            "FXAJPYCAD": "0.009940",
+            "FXAMXNCAD": "0.06472",
+            "FXANZDCAD": "0.8267",
+            "FXANOKCAD": "0.1357",
+            "FXAPENCAD": "0.3394",
+            "FXARUBCAD": "0.01937",
+            "FXASARCAD": "0.3465",
+            "FXASGDCAD": "0.9438",
+            "FXAZARCAD": "0.07974",
+            "FXAKRWCAD": "0.001009",
+            "FXASEKCAD": "0.1289",
+            "FXACHFCAD": "1.3629",
+            "FXATWDCAD": "0.04371",
+            "FXATRYCAD": "0.07940",
+            "FXAGBPCAD": "1.6076",
+            "FXAUSDCAD": "1.3013"
         }
     }
 }
