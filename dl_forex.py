@@ -128,7 +128,7 @@ def getFileNames(name):
 
 
 def main():
-    for i in range(2017, 2025):
+    for i in range(2017, 2026):
         names = getFileNames("boc_" + str(i))
         downloadForex(i, names["raw"])
         cleanDailyData(names)
